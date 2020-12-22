@@ -1,0 +1,764 @@
+age_group,sex,educ,province,n
+18-24,Female,Bachelor's degree,Alberta,553
+18-24,Female,Bachelor's degree,British Columbia,572
+18-24,Female,Bachelor's degree,Manitoba,130
+18-24,Female,Bachelor's degree,New Brunswick,99
+18-24,Female,Bachelor's degree,Newfoundland and Labrador,53
+18-24,Female,Bachelor's degree,Northern Canada,3
+18-24,Female,Bachelor's degree,Nova Scotia,152
+18-24,Female,Bachelor's degree,Ontario,2588
+18-24,Female,Bachelor's degree,Prince Edward Island,18
+18-24,Female,Bachelor's degree,Quebec,823
+18-24,Female,Bachelor's degree,Saskatchewan,106
+18-24,Female,Degree above Bachelor's,Alberta,35
+18-24,Female,Degree above Bachelor's,British Columbia,34
+18-24,Female,Degree above Bachelor's,Manitoba,5
+18-24,Female,Degree above Bachelor's,New Brunswick,3
+18-24,Female,Degree above Bachelor's,Nova Scotia,9
+18-24,Female,Degree above Bachelor's,Ontario,247
+18-24,Female,Degree above Bachelor's,Prince Edward Island,1
+18-24,Female,Degree above Bachelor's,Quebec,103
+18-24,Female,Degree above Bachelor's,Saskatchewan,3
+18-24,Female,HS Diploma or equivalent,Alberta,2397
+18-24,Female,HS Diploma or equivalent,British Columbia,2815
+18-24,Female,HS Diploma or equivalent,Manitoba,827
+18-24,Female,HS Diploma or equivalent,New Brunswick,369
+18-24,Female,HS Diploma or equivalent,Newfoundland and Labrador,260
+18-24,Female,HS Diploma or equivalent,Northern Canada,48
+18-24,Female,HS Diploma or equivalent,Nova Scotia,503
+18-24,Female,HS Diploma or equivalent,Ontario,7980
+18-24,Female,HS Diploma or equivalent,Prince Edward Island,77
+18-24,Female,HS Diploma or equivalent,Quebec,3054
+18-24,Female,HS Diploma or equivalent,Saskatchewan,671
+18-24,Female,"No certificate, diploma or degree",Alberta,562
+18-24,Female,"No certificate, diploma or degree",British Columbia,427
+18-24,Female,"No certificate, diploma or degree",Manitoba,264
+18-24,Female,"No certificate, diploma or degree",New Brunswick,71
+18-24,Female,"No certificate, diploma or degree",Newfoundland and Labrador,52
+18-24,Female,"No certificate, diploma or degree",Northern Canada,55
+18-24,Female,"No certificate, diploma or degree",Nova Scotia,134
+18-24,Female,"No certificate, diploma or degree",Ontario,1437
+18-24,Female,"No certificate, diploma or degree",Prince Edward Island,11
+18-24,Female,"No certificate, diploma or degree",Quebec,1035
+18-24,Female,"No certificate, diploma or degree",Saskatchewan,192
+18-24,Female,Non-university degree,Alberta,808
+18-24,Female,Non-university degree,British Columbia,853
+18-24,Female,Non-university degree,Manitoba,204
+18-24,Female,Non-university degree,New Brunswick,150
+18-24,Female,Non-university degree,Newfoundland and Labrador,105
+18-24,Female,Non-university degree,Northern Canada,9
+18-24,Female,Non-university degree,Nova Scotia,169
+18-24,Female,Non-university degree,Ontario,2744
+18-24,Female,Non-university degree,Prince Edward Island,29
+18-24,Female,Non-university degree,Quebec,3643
+18-24,Female,Non-university degree,Saskatchewan,179
+18-24,Male,Bachelor's degree,Alberta,349
+18-24,Male,Bachelor's degree,British Columbia,375
+18-24,Male,Bachelor's degree,Manitoba,73
+18-24,Male,Bachelor's degree,New Brunswick,51
+18-24,Male,Bachelor's degree,Newfoundland and Labrador,29
+18-24,Male,Bachelor's degree,Northern Canada,1
+18-24,Male,Bachelor's degree,Nova Scotia,77
+18-24,Male,Bachelor's degree,Ontario,1783
+18-24,Male,Bachelor's degree,Prince Edward Island,10
+18-24,Male,Bachelor's degree,Quebec,421
+18-24,Male,Bachelor's degree,Saskatchewan,68
+18-24,Male,Degree above Bachelor's,Alberta,13
+18-24,Male,Degree above Bachelor's,British Columbia,24
+18-24,Male,Degree above Bachelor's,Manitoba,5
+18-24,Male,Degree above Bachelor's,New Brunswick,1
+18-24,Male,Degree above Bachelor's,Newfoundland and Labrador,2
+18-24,Male,Degree above Bachelor's,Nova Scotia,3
+18-24,Male,Degree above Bachelor's,Ontario,141
+18-24,Male,Degree above Bachelor's,Quebec,56
+18-24,Male,Degree above Bachelor's,Saskatchewan,1
+18-24,Male,HS Diploma or equivalent,Alberta,2750
+18-24,Male,HS Diploma or equivalent,British Columbia,3117
+18-24,Male,HS Diploma or equivalent,Manitoba,930
+18-24,Male,HS Diploma or equivalent,New Brunswick,428
+18-24,Male,HS Diploma or equivalent,Newfoundland and Labrador,273
+18-24,Male,HS Diploma or equivalent,Northern Canada,59
+18-24,Male,HS Diploma or equivalent,Nova Scotia,545
+18-24,Male,HS Diploma or equivalent,Ontario,9345
+18-24,Male,HS Diploma or equivalent,Prince Edward Island,82
+18-24,Male,HS Diploma or equivalent,Quebec,3184
+18-24,Male,HS Diploma or equivalent,Saskatchewan,703
+18-24,Male,"No certificate, diploma or degree",Alberta,777
+18-24,Male,"No certificate, diploma or degree",British Columbia,552
+18-24,Male,"No certificate, diploma or degree",Manitoba,299
+18-24,Male,"No certificate, diploma or degree",New Brunswick,99
+18-24,Male,"No certificate, diploma or degree",Newfoundland and Labrador,84
+18-24,Male,"No certificate, diploma or degree",Northern Canada,70
+18-24,Male,"No certificate, diploma or degree",Nova Scotia,143
+18-24,Male,"No certificate, diploma or degree",Ontario,1988
+18-24,Male,"No certificate, diploma or degree",Prince Edward Island,24
+18-24,Male,"No certificate, diploma or degree",Quebec,1640
+18-24,Male,"No certificate, diploma or degree",Saskatchewan,251
+18-24,Male,Non-university degree,Alberta,798
+18-24,Male,Non-university degree,British Columbia,810
+18-24,Male,Non-university degree,Manitoba,204
+18-24,Male,Non-university degree,New Brunswick,170
+18-24,Male,Non-university degree,Newfoundland and Labrador,147
+18-24,Male,Non-university degree,Northern Canada,8
+18-24,Male,Non-university degree,Nova Scotia,186
+18-24,Male,Non-university degree,Ontario,2655
+18-24,Male,Non-university degree,Prince Edward Island,30
+18-24,Male,Non-university degree,Quebec,3477
+18-24,Male,Non-university degree,Saskatchewan,174
+25-34,Female,Bachelor's degree,Alberta,2334
+25-34,Female,Bachelor's degree,British Columbia,2303
+25-34,Female,Bachelor's degree,Manitoba,610
+25-34,Female,Bachelor's degree,New Brunswick,259
+25-34,Female,Bachelor's degree,Newfoundland and Labrador,191
+25-34,Female,Bachelor's degree,Northern Canada,38
+25-34,Female,Bachelor's degree,Nova Scotia,408
+25-34,Female,Bachelor's degree,Ontario,7017
+25-34,Female,Bachelor's degree,Prince Edward Island,64
+25-34,Female,Bachelor's degree,Quebec,3221
+25-34,Female,Bachelor's degree,Saskatchewan,541
+25-34,Female,Degree above Bachelor's,Alberta,631
+25-34,Female,Degree above Bachelor's,British Columbia,805
+25-34,Female,Degree above Bachelor's,Manitoba,158
+25-34,Female,Degree above Bachelor's,New Brunswick,70
+25-34,Female,Degree above Bachelor's,Newfoundland and Labrador,65
+25-34,Female,Degree above Bachelor's,Northern Canada,11
+25-34,Female,Degree above Bachelor's,Nova Scotia,128
+25-34,Female,Degree above Bachelor's,Ontario,2889
+25-34,Female,Degree above Bachelor's,Prince Edward Island,9
+25-34,Female,Degree above Bachelor's,Quebec,1593
+25-34,Female,Degree above Bachelor's,Saskatchewan,115
+25-34,Female,HS Diploma or equivalent,Alberta,1966
+25-34,Female,HS Diploma or equivalent,British Columbia,1774
+25-34,Female,HS Diploma or equivalent,Manitoba,587
+25-34,Female,HS Diploma or equivalent,New Brunswick,254
+25-34,Female,HS Diploma or equivalent,Newfoundland and Labrador,184
+25-34,Female,HS Diploma or equivalent,Northern Canada,53
+25-34,Female,HS Diploma or equivalent,Nova Scotia,291
+25-34,Female,HS Diploma or equivalent,Ontario,4087
+25-34,Female,HS Diploma or equivalent,Prince Edward Island,40
+25-34,Female,HS Diploma or equivalent,Quebec,1645
+25-34,Female,HS Diploma or equivalent,Saskatchewan,495
+25-34,Female,"No certificate, diploma or degree",Alberta,665
+25-34,Female,"No certificate, diploma or degree",British Columbia,414
+25-34,Female,"No certificate, diploma or degree",Manitoba,208
+25-34,Female,"No certificate, diploma or degree",New Brunswick,39
+25-34,Female,"No certificate, diploma or degree",Newfoundland and Labrador,58
+25-34,Female,"No certificate, diploma or degree",Northern Canada,40
+25-34,Female,"No certificate, diploma or degree",Nova Scotia,83
+25-34,Female,"No certificate, diploma or degree",Ontario,1442
+25-34,Female,"No certificate, diploma or degree",Prince Edward Island,14
+25-34,Female,"No certificate, diploma or degree",Quebec,1040
+25-34,Female,"No certificate, diploma or degree",Saskatchewan,160
+25-34,Female,Non-university degree,Alberta,2555
+25-34,Female,Non-university degree,British Columbia,2333
+25-34,Female,Non-university degree,Manitoba,556
+25-34,Female,Non-university degree,New Brunswick,396
+25-34,Female,Non-university degree,Newfoundland and Labrador,283
+25-34,Female,Non-university degree,Northern Canada,38
+25-34,Female,Non-university degree,Nova Scotia,466
+25-34,Female,Non-university degree,Ontario,7037
+25-34,Female,Non-university degree,Prince Edward Island,59
+25-34,Female,Non-university degree,Quebec,5538
+25-34,Female,Non-university degree,Saskatchewan,591
+25-34,Male,Bachelor's degree,Alberta,1634
+25-34,Male,Bachelor's degree,British Columbia,1712
+25-34,Male,Bachelor's degree,Manitoba,411
+25-34,Male,Bachelor's degree,New Brunswick,149
+25-34,Male,Bachelor's degree,Newfoundland and Labrador,99
+25-34,Male,Bachelor's degree,Northern Canada,24
+25-34,Male,Bachelor's degree,Nova Scotia,255
+25-34,Male,Bachelor's degree,Ontario,4941
+25-34,Male,Bachelor's degree,Prince Edward Island,35
+25-34,Male,Bachelor's degree,Quebec,2080
+25-34,Male,Bachelor's degree,Saskatchewan,328
+25-34,Male,Degree above Bachelor's,Alberta,435
+25-34,Male,Degree above Bachelor's,British Columbia,487
+25-34,Male,Degree above Bachelor's,Manitoba,85
+25-34,Male,Degree above Bachelor's,New Brunswick,42
+25-34,Male,Degree above Bachelor's,Newfoundland and Labrador,22
+25-34,Male,Degree above Bachelor's,Northern Canada,7
+25-34,Male,Degree above Bachelor's,Nova Scotia,66
+25-34,Male,Degree above Bachelor's,Ontario,1870
+25-34,Male,Degree above Bachelor's,Prince Edward Island,7
+25-34,Male,Degree above Bachelor's,Quebec,1076
+25-34,Male,Degree above Bachelor's,Saskatchewan,72
+25-34,Male,HS Diploma or equivalent,Alberta,2367
+25-34,Male,HS Diploma or equivalent,British Columbia,2363
+25-34,Male,HS Diploma or equivalent,Manitoba,710
+25-34,Male,HS Diploma or equivalent,New Brunswick,316
+25-34,Male,HS Diploma or equivalent,Newfoundland and Labrador,151
+25-34,Male,HS Diploma or equivalent,Northern Canada,48
+25-34,Male,HS Diploma or equivalent,Nova Scotia,370
+25-34,Male,HS Diploma or equivalent,Ontario,5802
+25-34,Male,HS Diploma or equivalent,Prince Edward Island,55
+25-34,Male,HS Diploma or equivalent,Quebec,2151
+25-34,Male,HS Diploma or equivalent,Saskatchewan,660
+25-34,Male,"No certificate, diploma or degree",Alberta,871
+25-34,Male,"No certificate, diploma or degree",British Columbia,592
+25-34,Male,"No certificate, diploma or degree",Manitoba,330
+25-34,Male,"No certificate, diploma or degree",New Brunswick,101
+25-34,Male,"No certificate, diploma or degree",Newfoundland and Labrador,74
+25-34,Male,"No certificate, diploma or degree",Northern Canada,49
+25-34,Male,"No certificate, diploma or degree",Nova Scotia,120
+25-34,Male,"No certificate, diploma or degree",Ontario,2036
+25-34,Male,"No certificate, diploma or degree",Prince Edward Island,13
+25-34,Male,"No certificate, diploma or degree",Quebec,1706
+25-34,Male,"No certificate, diploma or degree",Saskatchewan,245
+25-34,Male,Non-university degree,Alberta,2840
+25-34,Male,Non-university degree,British Columbia,2440
+25-34,Male,Non-university degree,Manitoba,560
+25-34,Male,Non-university degree,New Brunswick,368
+25-34,Male,Non-university degree,Newfoundland and Labrador,322
+25-34,Male,Non-university degree,Northern Canada,55
+25-34,Male,Non-university degree,Nova Scotia,451
+25-34,Male,Non-university degree,Ontario,6927
+25-34,Male,Non-university degree,Prince Edward Island,51
+25-34,Male,Non-university degree,Quebec,5935
+25-34,Male,Non-university degree,Saskatchewan,620
+35-44,Female,Bachelor's degree,Alberta,1983
+35-44,Female,Bachelor's degree,British Columbia,1961
+35-44,Female,Bachelor's degree,Manitoba,570
+35-44,Female,Bachelor's degree,New Brunswick,292
+35-44,Female,Bachelor's degree,Newfoundland and Labrador,135
+35-44,Female,Bachelor's degree,Northern Canada,41
+35-44,Female,Bachelor's degree,Nova Scotia,355
+35-44,Female,Bachelor's degree,Ontario,6280
+35-44,Female,Bachelor's degree,Prince Edward Island,48
+35-44,Female,Bachelor's degree,Quebec,3168
+35-44,Female,Bachelor's degree,Saskatchewan,394
+35-44,Female,Degree above Bachelor's,Alberta,753
+35-44,Female,Degree above Bachelor's,British Columbia,985
+35-44,Female,Degree above Bachelor's,Manitoba,156
+35-44,Female,Degree above Bachelor's,New Brunswick,86
+35-44,Female,Degree above Bachelor's,Newfoundland and Labrador,61
+35-44,Female,Degree above Bachelor's,Northern Canada,15
+35-44,Female,Degree above Bachelor's,Nova Scotia,153
+35-44,Female,Degree above Bachelor's,Ontario,3036
+35-44,Female,Degree above Bachelor's,Prince Edward Island,14
+35-44,Female,Degree above Bachelor's,Quebec,1689
+35-44,Female,Degree above Bachelor's,Saskatchewan,124
+35-44,Female,HS Diploma or equivalent,Alberta,1519
+35-44,Female,HS Diploma or equivalent,British Columbia,1669
+35-44,Female,HS Diploma or equivalent,Manitoba,488
+35-44,Female,HS Diploma or equivalent,New Brunswick,286
+35-44,Female,HS Diploma or equivalent,Newfoundland and Labrador,166
+35-44,Female,HS Diploma or equivalent,Northern Canada,29
+35-44,Female,HS Diploma or equivalent,Nova Scotia,283
+35-44,Female,HS Diploma or equivalent,Ontario,4447
+35-44,Female,HS Diploma or equivalent,Prince Edward Island,44
+35-44,Female,HS Diploma or equivalent,Quebec,1746
+35-44,Female,HS Diploma or equivalent,Saskatchewan,426
+35-44,Female,"No certificate, diploma or degree",Alberta,602
+35-44,Female,"No certificate, diploma or degree",British Columbia,506
+35-44,Female,"No certificate, diploma or degree",Manitoba,197
+35-44,Female,"No certificate, diploma or degree",New Brunswick,75
+35-44,Female,"No certificate, diploma or degree",Newfoundland and Labrador,72
+35-44,Female,"No certificate, diploma or degree",Northern Canada,26
+35-44,Female,"No certificate, diploma or degree",Nova Scotia,82
+35-44,Female,"No certificate, diploma or degree",Ontario,1584
+35-44,Female,"No certificate, diploma or degree",Prince Edward Island,10
+35-44,Female,"No certificate, diploma or degree",Quebec,1153
+35-44,Female,"No certificate, diploma or degree",Saskatchewan,95
+35-44,Female,Non-university degree,Alberta,2580
+35-44,Female,Non-university degree,British Columbia,2653
+35-44,Female,Non-university degree,Manitoba,703
+35-44,Female,Non-university degree,New Brunswick,487
+35-44,Female,Non-university degree,Newfoundland and Labrador,417
+35-44,Female,Non-university degree,Northern Canada,37
+35-44,Female,Non-university degree,Nova Scotia,562
+35-44,Female,Non-university degree,Ontario,7900
+35-44,Female,Non-university degree,Prince Edward Island,88
+35-44,Female,Non-university degree,Quebec,6162
+35-44,Female,Non-university degree,Saskatchewan,633
+35-44,Male,Bachelor's degree,Alberta,1361
+35-44,Male,Bachelor's degree,British Columbia,1471
+35-44,Male,Bachelor's degree,Manitoba,352
+35-44,Male,Bachelor's degree,New Brunswick,176
+35-44,Male,Bachelor's degree,Newfoundland and Labrador,107
+35-44,Male,Bachelor's degree,Northern Canada,27
+35-44,Male,Bachelor's degree,Nova Scotia,236
+35-44,Male,Bachelor's degree,Ontario,4473
+35-44,Male,Bachelor's degree,Prince Edward Island,26
+35-44,Male,Bachelor's degree,Quebec,2204
+35-44,Male,Bachelor's degree,Saskatchewan,255
+35-44,Male,Degree above Bachelor's,Alberta,660
+35-44,Male,Degree above Bachelor's,British Columbia,753
+35-44,Male,Degree above Bachelor's,Manitoba,131
+35-44,Male,Degree above Bachelor's,New Brunswick,57
+35-44,Male,Degree above Bachelor's,Newfoundland and Labrador,47
+35-44,Male,Degree above Bachelor's,Northern Canada,7
+35-44,Male,Degree above Bachelor's,Nova Scotia,95
+35-44,Male,Degree above Bachelor's,Ontario,2523
+35-44,Male,Degree above Bachelor's,Prince Edward Island,8
+35-44,Male,Degree above Bachelor's,Quebec,1412
+35-44,Male,Degree above Bachelor's,Saskatchewan,100
+35-44,Male,HS Diploma or equivalent,Alberta,1878
+35-44,Male,HS Diploma or equivalent,British Columbia,1891
+35-44,Male,HS Diploma or equivalent,Manitoba,545
+35-44,Male,HS Diploma or equivalent,New Brunswick,343
+35-44,Male,HS Diploma or equivalent,Newfoundland and Labrador,164
+35-44,Male,HS Diploma or equivalent,Northern Canada,29
+35-44,Male,HS Diploma or equivalent,Nova Scotia,365
+35-44,Male,HS Diploma or equivalent,Ontario,5298
+35-44,Male,HS Diploma or equivalent,Prince Edward Island,55
+35-44,Male,HS Diploma or equivalent,Quebec,2158
+35-44,Male,HS Diploma or equivalent,Saskatchewan,541
+35-44,Male,"No certificate, diploma or degree",Alberta,770
+35-44,Male,"No certificate, diploma or degree",British Columbia,646
+35-44,Male,"No certificate, diploma or degree",Manitoba,259
+35-44,Male,"No certificate, diploma or degree",New Brunswick,144
+35-44,Male,"No certificate, diploma or degree",Newfoundland and Labrador,98
+35-44,Male,"No certificate, diploma or degree",Northern Canada,32
+35-44,Male,"No certificate, diploma or degree",Nova Scotia,150
+35-44,Male,"No certificate, diploma or degree",Ontario,1989
+35-44,Male,"No certificate, diploma or degree",Prince Edward Island,17
+35-44,Male,"No certificate, diploma or degree",Quebec,1585
+35-44,Male,"No certificate, diploma or degree",Saskatchewan,201
+35-44,Male,Non-university degree,Alberta,2724
+35-44,Male,Non-university degree,British Columbia,2486
+35-44,Male,Non-university degree,Manitoba,653
+35-44,Male,Non-university degree,New Brunswick,439
+35-44,Male,Non-university degree,Newfoundland and Labrador,385
+35-44,Male,Non-university degree,Northern Canada,51
+35-44,Male,Non-university degree,Nova Scotia,504
+35-44,Male,Non-university degree,Ontario,6827
+35-44,Male,Non-university degree,Prince Edward Island,73
+35-44,Male,Non-university degree,Quebec,6355
+35-44,Male,Non-university degree,Saskatchewan,599
+45-54,Female,Bachelor's degree,Alberta,1277
+45-54,Female,Bachelor's degree,British Columbia,1696
+45-54,Female,Bachelor's degree,Manitoba,394
+45-54,Female,Bachelor's degree,New Brunswick,207
+45-54,Female,Bachelor's degree,Newfoundland and Labrador,131
+45-54,Female,Bachelor's degree,Northern Canada,30
+45-54,Female,Bachelor's degree,Nova Scotia,310
+45-54,Female,Bachelor's degree,Ontario,5465
+45-54,Female,Bachelor's degree,Prince Edward Island,42
+45-54,Female,Bachelor's degree,Quebec,2540
+45-54,Female,Bachelor's degree,Saskatchewan,247
+45-54,Female,Degree above Bachelor's,Alberta,506
+45-54,Female,Degree above Bachelor's,British Columbia,891
+45-54,Female,Degree above Bachelor's,Manitoba,125
+45-54,Female,Degree above Bachelor's,New Brunswick,73
+45-54,Female,Degree above Bachelor's,Newfoundland and Labrador,74
+45-54,Female,Degree above Bachelor's,Northern Canada,8
+45-54,Female,Degree above Bachelor's,Nova Scotia,141
+45-54,Female,Degree above Bachelor's,Ontario,2465
+45-54,Female,Degree above Bachelor's,Prince Edward Island,18
+45-54,Female,Degree above Bachelor's,Quebec,1130
+45-54,Female,Degree above Bachelor's,Saskatchewan,99
+45-54,Female,HS Diploma or equivalent,Alberta,1916
+45-54,Female,HS Diploma or equivalent,British Columbia,2510
+45-54,Female,HS Diploma or equivalent,Manitoba,619
+45-54,Female,HS Diploma or equivalent,New Brunswick,454
+45-54,Female,HS Diploma or equivalent,Newfoundland and Labrador,273
+45-54,Female,HS Diploma or equivalent,Northern Canada,29
+45-54,Female,HS Diploma or equivalent,Nova Scotia,437
+45-54,Female,HS Diploma or equivalent,Ontario,6741
+45-54,Female,HS Diploma or equivalent,Prince Edward Island,71
+45-54,Female,HS Diploma or equivalent,Quebec,2896
+45-54,Female,HS Diploma or equivalent,Saskatchewan,524
+45-54,Female,"No certificate, diploma or degree",Alberta,740
+45-54,Female,"No certificate, diploma or degree",British Columbia,751
+45-54,Female,"No certificate, diploma or degree",Manitoba,270
+45-54,Female,"No certificate, diploma or degree",New Brunswick,158
+45-54,Female,"No certificate, diploma or degree",Newfoundland and Labrador,173
+45-54,Female,"No certificate, diploma or degree",Northern Canada,46
+45-54,Female,"No certificate, diploma or degree",Nova Scotia,173
+45-54,Female,"No certificate, diploma or degree",Ontario,2497
+45-54,Female,"No certificate, diploma or degree",Prince Edward Island,30
+45-54,Female,"No certificate, diploma or degree",Quebec,1837
+45-54,Female,"No certificate, diploma or degree",Saskatchewan,198
+45-54,Female,Non-university degree,Alberta,2726
+45-54,Female,Non-university degree,British Columbia,3217
+45-54,Female,Non-university degree,Manitoba,774
+45-54,Female,Non-university degree,New Brunswick,587
+45-54,Female,Non-university degree,Newfoundland and Labrador,497
+45-54,Female,Non-university degree,Northern Canada,58
+45-54,Female,Non-university degree,Nova Scotia,749
+45-54,Female,Non-university degree,Ontario,9462
+45-54,Female,Non-university degree,Prince Edward Island,109
+45-54,Female,Non-university degree,Quebec,6805
+45-54,Female,Non-university degree,Saskatchewan,733
+45-54,Male,Bachelor's degree,Alberta,1164
+45-54,Male,Bachelor's degree,British Columbia,1418
+45-54,Male,Bachelor's degree,Manitoba,302
+45-54,Male,Bachelor's degree,New Brunswick,140
+45-54,Male,Bachelor's degree,Newfoundland and Labrador,67
+45-54,Male,Bachelor's degree,Northern Canada,17
+45-54,Male,Bachelor's degree,Nova Scotia,231
+45-54,Male,Bachelor's degree,Ontario,4601
+45-54,Male,Bachelor's degree,Prince Edward Island,32
+45-54,Male,Bachelor's degree,Quebec,2143
+45-54,Male,Bachelor's degree,Saskatchewan,213
+45-54,Male,Degree above Bachelor's,Alberta,643
+45-54,Male,Degree above Bachelor's,British Columbia,857
+45-54,Male,Degree above Bachelor's,Manitoba,127
+45-54,Male,Degree above Bachelor's,New Brunswick,58
+45-54,Male,Degree above Bachelor's,Newfoundland and Labrador,37
+45-54,Male,Degree above Bachelor's,Northern Canada,7
+45-54,Male,Degree above Bachelor's,Nova Scotia,101
+45-54,Male,Degree above Bachelor's,Ontario,2729
+45-54,Male,Degree above Bachelor's,Prince Edward Island,9
+45-54,Male,Degree above Bachelor's,Quebec,1181
+45-54,Male,Degree above Bachelor's,Saskatchewan,98
+45-54,Male,HS Diploma or equivalent,Alberta,1734
+45-54,Male,HS Diploma or equivalent,British Columbia,2222
+45-54,Male,HS Diploma or equivalent,Manitoba,603
+45-54,Male,HS Diploma or equivalent,New Brunswick,390
+45-54,Male,HS Diploma or equivalent,Newfoundland and Labrador,219
+45-54,Male,HS Diploma or equivalent,Northern Canada,35
+45-54,Male,HS Diploma or equivalent,Nova Scotia,398
+45-54,Male,HS Diploma or equivalent,Ontario,6511
+45-54,Male,HS Diploma or equivalent,Prince Edward Island,64
+45-54,Male,HS Diploma or equivalent,Quebec,2731
+45-54,Male,HS Diploma or equivalent,Saskatchewan,547
+45-54,Male,"No certificate, diploma or degree",Alberta,912
+45-54,Male,"No certificate, diploma or degree",British Columbia,990
+45-54,Male,"No certificate, diploma or degree",Manitoba,388
+45-54,Male,"No certificate, diploma or degree",New Brunswick,259
+45-54,Male,"No certificate, diploma or degree",Newfoundland and Labrador,183
+45-54,Male,"No certificate, diploma or degree",Northern Canada,51
+45-54,Male,"No certificate, diploma or degree",Nova Scotia,258
+45-54,Male,"No certificate, diploma or degree",Ontario,2975
+45-54,Male,"No certificate, diploma or degree",Prince Edward Island,53
+45-54,Male,"No certificate, diploma or degree",Quebec,2286
+45-54,Male,"No certificate, diploma or degree",Saskatchewan,303
+45-54,Male,Non-university degree,Alberta,2780
+45-54,Male,Non-university degree,British Columbia,2960
+45-54,Male,Non-university degree,Manitoba,688
+45-54,Male,Non-university degree,New Brunswick,513
+45-54,Male,Non-university degree,Newfoundland and Labrador,482
+45-54,Male,Non-university degree,Northern Canada,65
+45-54,Male,Non-university degree,Nova Scotia,677
+45-54,Male,Non-university degree,Ontario,8465
+45-54,Male,Non-university degree,Prince Edward Island,94
+45-54,Male,Non-university degree,Quebec,6719
+45-54,Male,Non-university degree,Saskatchewan,607
+55-64,Female,Bachelor's degree,Alberta,926
+55-64,Female,Bachelor's degree,British Columbia,1203
+55-64,Female,Bachelor's degree,Manitoba,253
+55-64,Female,Bachelor's degree,New Brunswick,148
+55-64,Female,Bachelor's degree,Newfoundland and Labrador,88
+55-64,Female,Bachelor's degree,Northern Canada,19
+55-64,Female,Bachelor's degree,Nova Scotia,244
+55-64,Female,Bachelor's degree,Ontario,3568
+55-64,Female,Bachelor's degree,Prince Edward Island,37
+55-64,Female,Bachelor's degree,Quebec,1747
+55-64,Female,Bachelor's degree,Saskatchewan,222
+55-64,Female,Degree above Bachelor's,Alberta,384
+55-64,Female,Degree above Bachelor's,British Columbia,718
+55-64,Female,Degree above Bachelor's,Manitoba,102
+55-64,Female,Degree above Bachelor's,New Brunswick,59
+55-64,Female,Degree above Bachelor's,Newfoundland and Labrador,52
+55-64,Female,Degree above Bachelor's,Northern Canada,7
+55-64,Female,Degree above Bachelor's,Nova Scotia,125
+55-64,Female,Degree above Bachelor's,Ontario,1787
+55-64,Female,Degree above Bachelor's,Prince Edward Island,11
+55-64,Female,Degree above Bachelor's,Quebec,881
+55-64,Female,Degree above Bachelor's,Saskatchewan,76
+55-64,Female,HS Diploma or equivalent,Alberta,2226
+55-64,Female,HS Diploma or equivalent,British Columbia,3023
+55-64,Female,HS Diploma or equivalent,Manitoba,683
+55-64,Female,HS Diploma or equivalent,New Brunswick,561
+55-64,Female,HS Diploma or equivalent,Newfoundland and Labrador,335
+55-64,Female,HS Diploma or equivalent,Northern Canada,26
+55-64,Female,HS Diploma or equivalent,Nova Scotia,531
+55-64,Female,HS Diploma or equivalent,Ontario,8020
+55-64,Female,HS Diploma or equivalent,Prince Edward Island,78
+55-64,Female,HS Diploma or equivalent,Quebec,4704
+55-64,Female,HS Diploma or equivalent,Saskatchewan,633
+55-64,Female,"No certificate, diploma or degree",Alberta,848
+55-64,Female,"No certificate, diploma or degree",British Columbia,1133
+55-64,Female,"No certificate, diploma or degree",Manitoba,345
+55-64,Female,"No certificate, diploma or degree",New Brunswick,294
+55-64,Female,"No certificate, diploma or degree",Newfoundland and Labrador,247
+55-64,Female,"No certificate, diploma or degree",Northern Canada,29
+55-64,Female,"No certificate, diploma or degree",Nova Scotia,336
+55-64,Female,"No certificate, diploma or degree",Ontario,3620
+55-64,Female,"No certificate, diploma or degree",Prince Edward Island,39
+55-64,Female,"No certificate, diploma or degree",Quebec,2808
+55-64,Female,"No certificate, diploma or degree",Saskatchewan,231
+55-64,Female,Non-university degree,Alberta,2203
+55-64,Female,Non-university degree,British Columbia,3097
+55-64,Female,Non-university degree,Manitoba,689
+55-64,Female,Non-university degree,New Brunswick,493
+55-64,Female,Non-university degree,Newfoundland and Labrador,387
+55-64,Female,Non-university degree,Northern Canada,33
+55-64,Female,Non-university degree,Nova Scotia,766
+55-64,Female,Non-university degree,Ontario,7976
+55-64,Female,Non-university degree,Prince Edward Island,121
+55-64,Female,Non-university degree,Quebec,5890
+55-64,Female,Non-university degree,Saskatchewan,655
+55-64,Male,Bachelor's degree,Alberta,935
+55-64,Male,Bachelor's degree,British Columbia,1112
+55-64,Male,Bachelor's degree,Manitoba,225
+55-64,Male,Bachelor's degree,New Brunswick,124
+55-64,Male,Bachelor's degree,Newfoundland and Labrador,73
+55-64,Male,Bachelor's degree,Northern Canada,19
+55-64,Male,Bachelor's degree,Nova Scotia,189
+55-64,Male,Bachelor's degree,Ontario,3470
+55-64,Male,Bachelor's degree,Prince Edward Island,28
+55-64,Male,Bachelor's degree,Quebec,1724
+55-64,Male,Bachelor's degree,Saskatchewan,158
+55-64,Male,Degree above Bachelor's,Alberta,469
+55-64,Male,Degree above Bachelor's,British Columbia,769
+55-64,Male,Degree above Bachelor's,Manitoba,133
+55-64,Male,Degree above Bachelor's,New Brunswick,69
+55-64,Male,Degree above Bachelor's,Newfoundland and Labrador,55
+55-64,Male,Degree above Bachelor's,Northern Canada,9
+55-64,Male,Degree above Bachelor's,Nova Scotia,113
+55-64,Male,Degree above Bachelor's,Ontario,2117
+55-64,Male,Degree above Bachelor's,Prince Edward Island,12
+55-64,Male,Degree above Bachelor's,Quebec,1035
+55-64,Male,Degree above Bachelor's,Saskatchewan,70
+55-64,Male,HS Diploma or equivalent,Alberta,1503
+55-64,Male,HS Diploma or equivalent,British Columbia,2247
+55-64,Male,HS Diploma or equivalent,Manitoba,584
+55-64,Male,HS Diploma or equivalent,New Brunswick,411
+55-64,Male,HS Diploma or equivalent,Newfoundland and Labrador,244
+55-64,Male,HS Diploma or equivalent,Northern Canada,25
+55-64,Male,HS Diploma or equivalent,Nova Scotia,411
+55-64,Male,HS Diploma or equivalent,Ontario,6152
+55-64,Male,HS Diploma or equivalent,Prince Edward Island,81
+55-64,Male,HS Diploma or equivalent,Quebec,3544
+55-64,Male,HS Diploma or equivalent,Saskatchewan,557
+55-64,Male,"No certificate, diploma or degree",Alberta,1012
+55-64,Male,"No certificate, diploma or degree",British Columbia,1208
+55-64,Male,"No certificate, diploma or degree",Manitoba,463
+55-64,Male,"No certificate, diploma or degree",New Brunswick,340
+55-64,Male,"No certificate, diploma or degree",Newfoundland and Labrador,299
+55-64,Male,"No certificate, diploma or degree",Northern Canada,36
+55-64,Male,"No certificate, diploma or degree",Nova Scotia,398
+55-64,Male,"No certificate, diploma or degree",Ontario,3676
+55-64,Male,"No certificate, diploma or degree",Prince Edward Island,62
+55-64,Male,"No certificate, diploma or degree",Quebec,2997
+55-64,Male,"No certificate, diploma or degree",Saskatchewan,358
+55-64,Male,Non-university degree,Alberta,2658
+55-64,Male,Non-university degree,British Columbia,3072
+55-64,Male,Non-university degree,Manitoba,701
+55-64,Male,Non-university degree,New Brunswick,542
+55-64,Male,Non-university degree,Newfoundland and Labrador,473
+55-64,Male,Non-university degree,Northern Canada,59
+55-64,Male,Non-university degree,Nova Scotia,724
+55-64,Male,Non-university degree,Ontario,7817
+55-64,Male,Non-university degree,Prince Edward Island,85
+55-64,Male,Non-university degree,Quebec,6149
+55-64,Male,Non-university degree,Saskatchewan,628
+65-74,Female,Bachelor's degree,Alberta,146
+65-74,Female,Bachelor's degree,British Columbia,259
+65-74,Female,Bachelor's degree,Manitoba,43
+65-74,Female,Bachelor's degree,New Brunswick,28
+65-74,Female,Bachelor's degree,Newfoundland and Labrador,13
+65-74,Female,Bachelor's degree,Nova Scotia,41
+65-74,Female,Bachelor's degree,Ontario,697
+65-74,Female,Bachelor's degree,Prince Edward Island,6
+65-74,Female,Bachelor's degree,Quebec,412
+65-74,Female,Bachelor's degree,Saskatchewan,35
+65-74,Female,Degree above Bachelor's,Alberta,66
+65-74,Female,Degree above Bachelor's,British Columbia,159
+65-74,Female,Degree above Bachelor's,Manitoba,22
+65-74,Female,Degree above Bachelor's,New Brunswick,18
+65-74,Female,Degree above Bachelor's,Newfoundland and Labrador,7
+65-74,Female,Degree above Bachelor's,Northern Canada,1
+65-74,Female,Degree above Bachelor's,Nova Scotia,25
+65-74,Female,Degree above Bachelor's,Ontario,376
+65-74,Female,Degree above Bachelor's,Prince Edward Island,2
+65-74,Female,Degree above Bachelor's,Quebec,219
+65-74,Female,Degree above Bachelor's,Saskatchewan,11
+65-74,Female,HS Diploma or equivalent,Alberta,448
+65-74,Female,HS Diploma or equivalent,British Columbia,824
+65-74,Female,HS Diploma or equivalent,Manitoba,183
+65-74,Female,HS Diploma or equivalent,New Brunswick,110
+65-74,Female,HS Diploma or equivalent,Newfoundland and Labrador,96
+65-74,Female,HS Diploma or equivalent,Nova Scotia,135
+65-74,Female,HS Diploma or equivalent,Ontario,2077
+65-74,Female,HS Diploma or equivalent,Prince Edward Island,22
+65-74,Female,HS Diploma or equivalent,Quebec,1344
+65-74,Female,HS Diploma or equivalent,Saskatchewan,128
+65-74,Female,"No certificate, diploma or degree",Alberta,382
+65-74,Female,"No certificate, diploma or degree",British Columbia,589
+65-74,Female,"No certificate, diploma or degree",Manitoba,161
+65-74,Female,"No certificate, diploma or degree",New Brunswick,177
+65-74,Female,"No certificate, diploma or degree",Newfoundland and Labrador,153
+65-74,Female,"No certificate, diploma or degree",Northern Canada,8
+65-74,Female,"No certificate, diploma or degree",Nova Scotia,192
+65-74,Female,"No certificate, diploma or degree",Ontario,2080
+65-74,Female,"No certificate, diploma or degree",Prince Edward Island,18
+65-74,Female,"No certificate, diploma or degree",Quebec,1533
+65-74,Female,"No certificate, diploma or degree",Saskatchewan,137
+65-74,Female,Non-university degree,Alberta,458
+65-74,Female,Non-university degree,British Columbia,824
+65-74,Female,Non-university degree,Manitoba,182
+65-74,Female,Non-university degree,New Brunswick,128
+65-74,Female,Non-university degree,Newfoundland and Labrador,73
+65-74,Female,Non-university degree,Northern Canada,1
+65-74,Female,Non-university degree,Nova Scotia,249
+65-74,Female,Non-university degree,Ontario,1887
+65-74,Female,Non-university degree,Prince Edward Island,32
+65-74,Female,Non-university degree,Quebec,1364
+65-74,Female,Non-university degree,Saskatchewan,168
+65-74,Male,Bachelor's degree,Alberta,175
+65-74,Male,Bachelor's degree,British Columbia,331
+65-74,Male,Bachelor's degree,Manitoba,46
+65-74,Male,Bachelor's degree,New Brunswick,25
+65-74,Male,Bachelor's degree,Newfoundland and Labrador,18
+65-74,Male,Bachelor's degree,Northern Canada,1
+65-74,Male,Bachelor's degree,Nova Scotia,48
+65-74,Male,Bachelor's degree,Ontario,773
+65-74,Male,Bachelor's degree,Prince Edward Island,4
+65-74,Male,Bachelor's degree,Quebec,446
+65-74,Male,Bachelor's degree,Saskatchewan,43
+65-74,Male,Degree above Bachelor's,Alberta,141
+65-74,Male,Degree above Bachelor's,British Columbia,307
+65-74,Male,Degree above Bachelor's,Manitoba,45
+65-74,Male,Degree above Bachelor's,New Brunswick,33
+65-74,Male,Degree above Bachelor's,Newfoundland and Labrador,17
+65-74,Male,Degree above Bachelor's,Nova Scotia,61
+65-74,Male,Degree above Bachelor's,Ontario,691
+65-74,Male,Degree above Bachelor's,Prince Edward Island,4
+65-74,Male,Degree above Bachelor's,Quebec,438
+65-74,Male,Degree above Bachelor's,Saskatchewan,23
+65-74,Male,HS Diploma or equivalent,Alberta,309
+65-74,Male,HS Diploma or equivalent,British Columbia,569
+65-74,Male,HS Diploma or equivalent,Manitoba,112
+65-74,Male,HS Diploma or equivalent,New Brunswick,68
+65-74,Male,HS Diploma or equivalent,Newfoundland and Labrador,69
+65-74,Male,HS Diploma or equivalent,Northern Canada,3
+65-74,Male,HS Diploma or equivalent,Nova Scotia,108
+65-74,Male,HS Diploma or equivalent,Ontario,1349
+65-74,Male,HS Diploma or equivalent,Prince Edward Island,15
+65-74,Male,HS Diploma or equivalent,Quebec,1073
+65-74,Male,HS Diploma or equivalent,Saskatchewan,84
+65-74,Male,"No certificate, diploma or degree",Alberta,342
+65-74,Male,"No certificate, diploma or degree",British Columbia,477
+65-74,Male,"No certificate, diploma or degree",Manitoba,154
+65-74,Male,"No certificate, diploma or degree",New Brunswick,160
+65-74,Male,"No certificate, diploma or degree",Newfoundland and Labrador,118
+65-74,Male,"No certificate, diploma or degree",Northern Canada,8
+65-74,Male,"No certificate, diploma or degree",Nova Scotia,179
+65-74,Male,"No certificate, diploma or degree",Ontario,1558
+65-74,Male,"No certificate, diploma or degree",Prince Edward Island,32
+65-74,Male,"No certificate, diploma or degree",Quebec,1189
+65-74,Male,"No certificate, diploma or degree",Saskatchewan,138
+65-74,Male,Non-university degree,Alberta,521
+65-74,Male,Non-university degree,British Columbia,856
+65-74,Male,Non-university degree,Manitoba,171
+65-74,Male,Non-university degree,New Brunswick,146
+65-74,Male,Non-university degree,Newfoundland and Labrador,103
+65-74,Male,Non-university degree,Northern Canada,9
+65-74,Male,Non-university degree,Nova Scotia,171
+65-74,Male,Non-university degree,Ontario,1979
+65-74,Male,Non-university degree,Prince Edward Island,21
+65-74,Male,Non-university degree,Quebec,1476
+65-74,Male,Non-university degree,Saskatchewan,123
+75+,Female,Bachelor's degree,Alberta,406
+75+,Female,Bachelor's degree,British Columbia,781
+75+,Female,Bachelor's degree,Manitoba,165
+75+,Female,Bachelor's degree,New Brunswick,97
+75+,Female,Bachelor's degree,Newfoundland and Labrador,41
+75+,Female,Bachelor's degree,Northern Canada,4
+75+,Female,Bachelor's degree,Nova Scotia,145
+75+,Female,Bachelor's degree,Ontario,1959
+75+,Female,Bachelor's degree,Prince Edward Island,13
+75+,Female,Bachelor's degree,Quebec,940
+75+,Female,Bachelor's degree,Saskatchewan,97
+75+,Female,Degree above Bachelor's,Alberta,167
+75+,Female,Degree above Bachelor's,British Columbia,480
+75+,Female,Degree above Bachelor's,Manitoba,60
+75+,Female,Degree above Bachelor's,New Brunswick,31
+75+,Female,Degree above Bachelor's,Newfoundland and Labrador,22
+75+,Female,Degree above Bachelor's,Northern Canada,1
+75+,Female,Degree above Bachelor's,Nova Scotia,87
+75+,Female,Degree above Bachelor's,Ontario,1037
+75+,Female,Degree above Bachelor's,Prince Edward Island,11
+75+,Female,Degree above Bachelor's,Quebec,486
+75+,Female,Degree above Bachelor's,Saskatchewan,36
+75+,Female,HS Diploma or equivalent,Alberta,1324
+75+,Female,HS Diploma or equivalent,British Columbia,2609
+75+,Female,HS Diploma or equivalent,Manitoba,489
+75+,Female,HS Diploma or equivalent,New Brunswick,373
+75+,Female,HS Diploma or equivalent,Newfoundland and Labrador,265
+75+,Female,HS Diploma or equivalent,Northern Canada,12
+75+,Female,HS Diploma or equivalent,Nova Scotia,421
+75+,Female,HS Diploma or equivalent,Ontario,6672
+75+,Female,HS Diploma or equivalent,Prince Edward Island,54
+75+,Female,HS Diploma or equivalent,Quebec,3908
+75+,Female,HS Diploma or equivalent,Saskatchewan,400
+75+,Female,"No certificate, diploma or degree",Alberta,1360
+75+,Female,"No certificate, diploma or degree",British Columbia,2211
+75+,Female,"No certificate, diploma or degree",Manitoba,658
+75+,Female,"No certificate, diploma or degree",New Brunswick,553
+75+,Female,"No certificate, diploma or degree",Newfoundland and Labrador,420
+75+,Female,"No certificate, diploma or degree",Northern Canada,19
+75+,Female,"No certificate, diploma or degree",Nova Scotia,596
+75+,Female,"No certificate, diploma or degree",Ontario,7473
+75+,Female,"No certificate, diploma or degree",Prince Edward Island,75
+75+,Female,"No certificate, diploma or degree",Quebec,5350
+75+,Female,"No certificate, diploma or degree",Saskatchewan,573
+75+,Female,Non-university degree,Alberta,1345
+75+,Female,Non-university degree,British Columbia,2279
+75+,Female,Non-university degree,Manitoba,493
+75+,Female,Non-university degree,New Brunswick,377
+75+,Female,Non-university degree,Newfoundland and Labrador,236
+75+,Female,Non-university degree,Northern Canada,12
+75+,Female,Non-university degree,Nova Scotia,551
+75+,Female,Non-university degree,Ontario,5695
+75+,Female,Non-university degree,Prince Edward Island,84
+75+,Female,Non-university degree,Quebec,3524
+75+,Female,Non-university degree,Saskatchewan,503
+75+,Male,Bachelor's degree,Alberta,498
+75+,Male,Bachelor's degree,British Columbia,853
+75+,Male,Bachelor's degree,Manitoba,157
+75+,Male,Bachelor's degree,New Brunswick,82
+75+,Male,Bachelor's degree,Newfoundland and Labrador,40
+75+,Male,Bachelor's degree,Northern Canada,6
+75+,Male,Bachelor's degree,Nova Scotia,131
+75+,Male,Bachelor's degree,Ontario,2219
+75+,Male,Bachelor's degree,Prince Edward Island,21
+75+,Male,Bachelor's degree,Quebec,1072
+75+,Male,Bachelor's degree,Saskatchewan,126
+75+,Male,Degree above Bachelor's,Alberta,326
+75+,Male,Degree above Bachelor's,British Columbia,734
+75+,Male,Degree above Bachelor's,Manitoba,100
+75+,Male,Degree above Bachelor's,New Brunswick,71
+75+,Male,Degree above Bachelor's,Newfoundland and Labrador,41
+75+,Male,Degree above Bachelor's,Northern Canada,2
+75+,Male,Degree above Bachelor's,Nova Scotia,101
+75+,Male,Degree above Bachelor's,Ontario,1854
+75+,Male,Degree above Bachelor's,Prince Edward Island,11
+75+,Male,Degree above Bachelor's,Quebec,877
+75+,Male,Degree above Bachelor's,Saskatchewan,52
+75+,Male,HS Diploma or equivalent,Alberta,824
+75+,Male,HS Diploma or equivalent,British Columbia,1654
+75+,Male,HS Diploma or equivalent,Manitoba,338
+75+,Male,HS Diploma or equivalent,New Brunswick,219
+75+,Male,HS Diploma or equivalent,Newfoundland and Labrador,179
+75+,Male,HS Diploma or equivalent,Northern Canada,5
+75+,Male,HS Diploma or equivalent,Nova Scotia,272
+75+,Male,HS Diploma or equivalent,Ontario,4146
+75+,Male,HS Diploma or equivalent,Prince Edward Island,43
+75+,Male,HS Diploma or equivalent,Quebec,2537
+75+,Male,HS Diploma or equivalent,Saskatchewan,324
+75+,Male,"No certificate, diploma or degree",Alberta,1042
+75+,Male,"No certificate, diploma or degree",British Columbia,1600
+75+,Male,"No certificate, diploma or degree",Manitoba,491
+75+,Male,"No certificate, diploma or degree",New Brunswick,463
+75+,Male,"No certificate, diploma or degree",Newfoundland and Labrador,316
+75+,Male,"No certificate, diploma or degree",Northern Canada,21
+75+,Male,"No certificate, diploma or degree",Nova Scotia,461
+75+,Male,"No certificate, diploma or degree",Ontario,5179
+75+,Male,"No certificate, diploma or degree",Prince Edward Island,72
+75+,Male,"No certificate, diploma or degree",Quebec,3606
+75+,Male,"No certificate, diploma or degree",Saskatchewan,502
+75+,Male,Non-university degree,Alberta,1384
+75+,Male,Non-university degree,British Columbia,2485
+75+,Male,Non-university degree,Manitoba,433
+75+,Male,Non-university degree,New Brunswick,394
+75+,Male,Non-university degree,Newfoundland and Labrador,247
+75+,Male,Non-university degree,Northern Canada,14
+75+,Male,Non-university degree,Nova Scotia,535
+75+,Male,Non-university degree,Ontario,5787
+75+,Male,Non-university degree,Prince Edward Island,54
+75+,Male,Non-university degree,Quebec,3784
+75+,Male,Non-university degree,Saskatchewan,393

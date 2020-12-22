@@ -6,9 +6,9 @@ Inputs contain data that are unchanged from their original. We use two datasets:
 - Census of Canada, 2016. Retrieved from the CHASS website.
 
 Outputs contain data that are modified from the input data, the report and supporting material.
--ces_data.csv
--census_data.csv
--FinalProject.Rmd
+- ces_data.csv
+- census_data.csv
+- FinalProject.Rmd
 
 Scripts contain R scripts that take inputs and outputs and produce outputs. These are:
 - ces_cleaning.R

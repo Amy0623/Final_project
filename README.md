@@ -1,4 +1,4 @@
-# Final_project
+# Canadian_Election_Analysis
 This repo includes code and data for analyzing the effect of voter turnout on the 2019 Canadian Federal Election. It was created by Amy Chen. The purpose is to create a report that summarises the results of a statistical model that I built. Some data is unable to be shared publicly. I detail how to get that below. The sections of this repo are: inputs, outputs, scripts.
 
 Inputs contain data that are unchanged from their original. We use two datasets:
